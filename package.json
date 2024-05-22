@@ -1,0 +1,15 @@
+{
+  "name": "intent-recognizer",
+  "version": "1.0.0",
+  "description": "A simple intent recognizer using natural language processing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "natural": "^5.0.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

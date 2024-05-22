@@ -1,0 +1,94 @@
+{
+  "GetExchangeRate": [
+    "What's the exchange rate from {currency1} to {currency2}?",
+    "Exchange rate {currency1} to {currency2}",
+    "How much is {currency1} to {currency2}?"
+  ],
+  "GetWeather": [
+    "What's the weather in {city}?",
+    "Tell me the weather in {city}",
+    "Weather forecast for {city}"
+  ],
+  "GetFlightTicket": [
+    "Find the cheapest flight from {city1} to {city2}",
+    "Cheapest flight from {city1} to {city2}",
+    "Get me a flight from {city1} to {city2}"
+  ],
+  "BookHotel": [
+    "Book a hotel in {city}",
+    "Find a hotel in {city}",
+    "Reserve a hotel in {city}"
+  ],
+  "SetReminder": [
+    "Set a reminder for {task}",
+    "Remind me to {task}",
+    "Create a reminder for {task}"
+  ],
+  "PlayMusic": ["Play some music", "Play {song}", "I want to listen to {song}"],
+  "OrderFood": ["Order food", "I want to order {food}", "Get me {food}", "find many restaurant that sells {food}"],
+  "GetNews": ["What's the latest news?", "Show me news", "Latest headlines"],
+  "CheckEmail": [
+    "Check my email",
+    "Do I have any new emails?",
+    "Show my inbox"
+  ],
+  "SendEmail": [
+    "Send an email to {person}",
+    "Compose an email to {person}",
+    "Email {person}"
+  ],
+  "MakeCall": [
+    "Call {person}",
+    "Make a call to {person}",
+    "I want to call {person}"
+  ],
+  "SendText": ["Send a text to {person}", "Text {person}", "Message {person}"],
+  "GetDirections": [
+    "How do I get to {location}?",
+    "Directions to {location}",
+    "Show me the way to {location}"
+  ],
+  "FindRestaurant": [
+    "Find a restaurant",
+    "Show me restaurants in {city}",
+    "Restaurant near me"
+  ],
+  "CheckCalendar": [
+    "What's on my calendar?",
+    "Show my schedule",
+    "My appointments"
+  ],
+  "AddCalendarEvent": [
+    "Add an event to my calendar",
+    "Schedule a meeting",
+    "Create an appointment"
+  ],
+  "GetStockPrice": [
+    "What's the stock price of {company}?",
+    "Show me the stock price for {company}",
+    "Stock price of {company}"
+  ],
+  "SetAlarm": [
+    "Set an alarm for {time}",
+    "Wake me up at {time}",
+    "Alarm at {time}"
+  ],
+  "TurnOnLights": ["Turn on the lights", "Lights on", "Switch on the lights"],
+  "TurnOffLights": [
+    "Turn off the lights",
+    "Lights off",
+    "Switch off the lights"
+  ],
+  "OpenApp": ["Open {app}", "Start {app}", "Launch {app}"],
+  "CloseApp": ["Close {app}", "Exit {app}", "Shut down {app}"],
+  "WeatherForecast": [
+    "What's the weather forecast for {day}?",
+    "Forecast for {day}",
+    "Weather on {day}"
+  ],
+  "TrafficUpdate": [
+    "What's the traffic like?",
+    "Traffic update",
+    "Traffic conditions"
+  ]
+}
