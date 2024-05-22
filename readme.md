@@ -26,8 +26,7 @@ const intent = classifyIntent(userInput);
 console.log("Detected Intent:", intent);
 
 
-#### Contributing
-
+Contributing
 Contributions are welcome! If you have suggestions, feature requests, or want to report a bug, please open an issue or submit a pull request.
 
 License
