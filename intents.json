@@ -106,6 +106,7 @@
     "Can you give me the weather update for {city} tomorrow?"
   ],
   "GetFlightTicket": [
+    "i want to check ticket prices",
     "Find the cheapest flight from {city1} to {city2}",
     "Cheapest flight from {city1} to {city2}",
     "Get me a flight from {city1} to {city2}",
